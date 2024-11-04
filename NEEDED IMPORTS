@@ -1,7 +1,7 @@
 IMPORT NUMPY:
 pip install numpy
 DOWNLOAD TESSARACT OCR:
-ATTACHED FILE
+DOWNLOAD FROM CHROME
 IMPORT CV2:
 pip install opencv-python
 pip install opencv-contrib-python
