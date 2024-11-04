@@ -5,3 +5,4 @@ DOWNLOAD FROM CHROME
 IMPORT CV2:
 pip install opencv-python
 pip install opencv-contrib-python
+in the cascading section paste the path of the xml file
